@@ -54,7 +54,7 @@ button:hover {
     background-color: #b45309;
 }
 
-/* Recipe Card Container */
+
 div {
     background: #ffffff;
     width:650px;
@@ -98,7 +98,7 @@ div h4 {
 
 
 
-/* --- Mobile --- */
+
 
 @media (max-width: 768px) {
     div {
