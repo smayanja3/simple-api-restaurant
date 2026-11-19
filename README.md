@@ -49,6 +49,8 @@ Each recipe can provide information including:
 
 ---
 
+**Live Demo:** [[Live Site](https://smayanja3.github.io/simple-api-restaurant/)]
+
 ## 📸 Project Preview
 
 ![Recipe Finder](food.png)
